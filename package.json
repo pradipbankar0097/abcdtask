@@ -6,7 +6,6 @@
     "web": "expo start --web",
     "start": "react-native start",
     "build": "expo build:web"
-
   },
   "dependencies": {
     "expo": "~42.0.1",
@@ -24,7 +23,8 @@
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.0"
+    "@babel/core": "^7.9.0",
+    "expo-cli": "^4.11.0"
   },
   "private": true
 }
