@@ -4,7 +4,9 @@
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "web": "expo start --web",
-    "start": "react-native start"
+    "start": "react-native start",
+    "build": "expo build:web"
+
   },
   "dependencies": {
     "expo": "~42.0.1",
