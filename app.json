@@ -1,11 +1,12 @@
 {
   "expo": {
-    "name": "yboxtask",
-    "slug": "yboxtask",
+    "name": "abcdtask",
+    "slug": "abcdtask",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "Task for React Native Internship"
   },
   "name": "yboxtask"
 }
